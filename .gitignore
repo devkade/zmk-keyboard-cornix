@@ -4,6 +4,27 @@
 result
 .envrc
 .build
+build
 target
 
 firmware
+
+# macOS
+.DS_Store
+
+# West build system
+.west/
+modules/
+zephyr/
+zmk/
+
+# ZMK related directories that can be installed via west
+zmk-dongle-display/
+zmk-helpers/
+zmk-rgbled-widget/
+
+# Build artifacts
+*.uf2
+*.bin
+*.hex
+*.elf
