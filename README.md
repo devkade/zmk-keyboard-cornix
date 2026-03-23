@@ -6,6 +6,12 @@ This shield has been tested with Cornix using ZMK and provides full split-role c
 ![image](images/cornix_with_dongle.png)
 ![image](images/cornix_layout.png)
 
+## Local build & keymap guide
+
+For first-time clone setup, keymap editing, and local build verification, see:
+
+- [`docs/LOCAL_SETUP_KEYMAP_BUILD.md`](docs/LOCAL_SETUP_KEYMAP_BUILD.md)
+
 ## TODO LIST
 
 - [x] 52 keys full layout keymap, since v2.0
