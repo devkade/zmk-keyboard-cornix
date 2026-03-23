@@ -28,3 +28,7 @@ zmk-rgbled-widget/
 *.bin
 *.hex
 *.elf
+
+# Local scratch/backups
+module/
+boards/arm/cornix/*복사본*
